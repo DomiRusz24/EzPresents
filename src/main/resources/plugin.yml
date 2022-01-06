@@ -1,0 +1,7 @@
+name: '${project.name}'
+version: '${project.version}'
+main: me.domirusz24.ezpresents.MainPlugin
+api-version: 1.16
+depend: [ProtocolLib, PlaceholderAPI]
+softdepend: [Multiverse-Core, WorldEdit]
+authors: [ DomiRusz24 ]
